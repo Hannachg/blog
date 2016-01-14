@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+/*//login*/
+.loginForm{
+	margin-top:50px;
+}
+
+
+
+/*Ê×Ò³*/
+.mainContent{
+  padding:20px;
+}
+
+/*·¢²¼*/
+button.postInfor{
+  float:right;
+  margin-top:10px;
+}
+
+.articalContent{
+  margin-top:10px;
+}
